@@ -71,6 +71,9 @@ E_NCi – the exposure for a trade with both CSA and netting agreement
 E_NCi – the exposure for a trade with netting agreement but without CSA
 E_NNk – the exposure for a non-netting trade
 
+References:
 
-You can find more details at
 https://finpricing.com/lib/IrSwap.html
+
+https://bitbucket.org/cfrm17/ccr/downloads/ccr-1.pdf
+
