@@ -74,6 +74,3 @@ E_NNk – the exposure for a non-netting trade
 References:
 
 https://finpricing.com/lib/IrSwap.html
-
-https://bitbucket.org/cfrm17/ccr/downloads/ccr-1.pdf
-
